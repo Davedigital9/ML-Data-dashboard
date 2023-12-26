@@ -1,4 +1,4 @@
-## ML-Data-dashboard
+## ML-Data-dashboard (ongoing)
  Create a real-time data dashboard that visualizes streaming data from a supermarket sales dataset.
 
 ##Key Focus Areas:
